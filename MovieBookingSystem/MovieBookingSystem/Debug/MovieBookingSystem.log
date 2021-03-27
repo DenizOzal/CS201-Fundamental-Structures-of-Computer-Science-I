@@ -1,0 +1,5 @@
+﻿  Booking.cpp
+  Movie.cpp
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\MovieBookingSystem\MovieBookingSystem\Movie.cpp(25,11): warning C4553: '==': result of expression not used; did you intend '='?
+  Generating Code...
+  MovieBookingSystem.vcxproj -> C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\MovieBookingSystem\Debug\MovieBookingSystem.exe
