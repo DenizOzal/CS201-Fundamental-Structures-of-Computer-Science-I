@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW2\HW2\HW2\Main.cpp(61,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW2\HW2\HW2\Main.cpp(65,21): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  HW2.vcxproj -> C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW2\HW2\Debug\HW2.exe

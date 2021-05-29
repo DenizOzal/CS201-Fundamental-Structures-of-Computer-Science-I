@@ -1,0 +1,76 @@
+﻿  Booking.cpp
+  BookingList.cpp
+  Movie.cpp
+  MovieBookingSystem.cpp
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\SeatList.h(1,15): error C2011: 'SeatList': 'class' type redefinition
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\SeatList.h(1): message : see declaration of 'SeatList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\ReservationList.h(1,23): error C2011: 'ReservationList': 'class' type redefinition
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\ReservationList.h(1): message : see declaration of 'ReservationList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.h(20,18): error C2079: 'MovieBookingSystem::reservationCodes' uses undefined class 'ReservationList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.h(23,11): error C2079: 'MovieBookingSystem::seatList' uses undefined class 'SeatList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(26,11): error C2079: 'temp_seats' uses undefined class 'SeatList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(69,29): error C2027: use of undefined type 'SeatList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\SeatList.h(1): message : see declaration of 'SeatList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(69,42): error C2027: use of undefined type 'SeatList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\SeatList.h(1): message : see declaration of 'SeatList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(69,41): error C2027: use of undefined type 'SeatList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\SeatList.h(1): message : see declaration of 'SeatList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(79,39): error C2664: 'void Movie::setSeatList(const SeatList)': cannot convert argument 1 from 'int' to 'const SeatList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(79,39): message : use of undefined type 'SeatList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\SeatList.h(1,7): message : see declaration of 'SeatList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\Movie.h(21,7): message : see declaration of 'Movie::setSeatList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(150,11): error C2079: 'temp_seats' uses undefined class 'SeatList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(204,11): error C2079: 'temp_seats' uses undefined class 'SeatList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(222,30): error C2027: use of undefined type 'SeatList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\SeatList.h(1): message : see declaration of 'SeatList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(222,43): error C2027: use of undefined type 'SeatList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\SeatList.h(1): message : see declaration of 'SeatList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(222,42): error C2027: use of undefined type 'SeatList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\SeatList.h(1): message : see declaration of 'SeatList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(307,26): error C2027: use of undefined type 'ReservationList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\ReservationList.h(1): message : see declaration of 'ReservationList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(307,70): error C2027: use of undefined type 'ReservationList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\ReservationList.h(1): message : see declaration of 'ReservationList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(309,8): error C2146: syntax error: missing ';' before identifier 'temp_movieObj'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(310,11): error C2146: syntax error: missing ';' before identifier 'temp_seats'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(313,10): error C2146: syntax error: missing ';' before identifier 'booking_temp'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(317,11): error C2027: use of undefined type 'ReservationList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\ReservationList.h(1): message : see declaration of 'ReservationList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(318,28): error C2065: 'booking_temp': undeclared identifier
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(319,24): error C2065: 'booking_temp': undeclared identifier
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(321,25): error C2065: 'temp_movieObj': undeclared identifier
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(322,6): error C2065: 'temp_seats': undeclared identifier
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(322,19): error C2065: 'temp_movieObj': undeclared identifier
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(323,10): error C2065: 'booking_temp': undeclared identifier
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(323,48): error C2065: 'temp_movieObj': undeclared identifier
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(325,27): error C2065: 'temp_movieObj': undeclared identifier
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(330,41): error C2065: 'booking_temp': undeclared identifier
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(331,8): error C2065: 'booking_temp': undeclared identifier
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(331,42): error C2065: 'booking_temp': undeclared identifier
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(332,7): error C2065: 'temp_seats': undeclared identifier
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(332,25): error C2065: 'booking_temp': undeclared identifier
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(333,7): error C2065: 'temp_seats': undeclared identifier
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(333,25): error C2065: 'booking_temp': undeclared identifier
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(335,24): error C2065: 'temp_movieObj': undeclared identifier
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.cpp(344,5): error C2027: use of undefined type 'ReservationList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\ReservationList.h(1): message : see declaration of 'ReservationList'
+  MovieList.cpp
+  ReservationList.cpp
+  Main.cpp
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\SeatList.h(1,15): error C2011: 'SeatList': 'class' type redefinition
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\SeatList.h(1): message : see declaration of 'SeatList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\ReservationList.h(1,23): error C2011: 'ReservationList': 'class' type redefinition
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\ReservationList.h(1): message : see declaration of 'ReservationList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.h(20,18): error C2079: 'MovieBookingSystem::reservationCodes' uses undefined class 'ReservationList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.h(23,11): error C2079: 'MovieBookingSystem::seatList' uses undefined class 'SeatList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\Main.cpp(7,18): error C2079: 'RL' uses undefined class 'ReservationList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\Main.cpp(27,25): error C2664: 'void MovieBookingSystem::cancelReservations(ReservationList)': cannot convert argument 1 from 'int' to 'ReservationList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\Main.cpp(27,25): message : use of undefined type 'ReservationList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\ReservationList.h(1,7): message : see declaration of 'ReservationList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.h(17,7): message : see declaration of 'MovieBookingSystem::cancelReservations'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\Main.cpp(38,25): error C2664: 'void MovieBookingSystem::cancelReservations(ReservationList)': cannot convert argument 1 from 'int' to 'ReservationList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\Main.cpp(38,25): message : use of undefined type 'ReservationList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\ReservationList.h(1,7): message : see declaration of 'ReservationList'
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW3\MovieBookingSystem_LinkedList\MovieBookingSystem_LinkedList\MovieBookingSystem.h(17,7): message : see declaration of 'MovieBookingSystem::cancelReservations'
+  SeatList.cpp
+  Generating Code...

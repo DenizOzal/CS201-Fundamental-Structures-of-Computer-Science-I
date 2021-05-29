@@ -1,0 +1,9 @@
+﻿  AlgorithmAnalysis.cpp
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW2\AlgorithmAnalysis\AlgorithmAnalysis\AlgorithmAnalysis.cpp(45,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW2\AlgorithmAnalysis\AlgorithmAnalysis\AlgorithmAnalysis.cpp(49,21): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 27 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AlgorithmAnalysis.vcxproj -> C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW2\AlgorithmAnalysis\Release\AlgorithmAnalysis.exe

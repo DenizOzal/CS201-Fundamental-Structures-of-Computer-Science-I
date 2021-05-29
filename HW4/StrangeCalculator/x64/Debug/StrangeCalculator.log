@@ -1,0 +1,6 @@
+﻿  StrangeCalculator.cpp
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW4\StrangeCalculator\StrangeCalculator.cpp(180,2): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW4\StrangeCalculator\StrangeCalculator.cpp(205,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  StrangeCalculator.vcxproj -> C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW4\StrangeCalculator\x64\Debug\StrangeCalculator.exe

@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW4\StrangeCalculator\StrangeCalculator.h(33,16): error C3861: 'reverseString': identifier not found
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW4\StrangeCalculator\StrangeCalculator.h(36,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW4\StrangeCalculator\StrangeCalculator.h(41,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW4\StrangeCalculator\StrangeCalculator.h(50,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW4\StrangeCalculator\StrangeCalculator.h(61,40): warning C4806: '!=': unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW4\StrangeCalculator\StrangeCalculator.h(68,84): error C3861: 'precedence': identifier not found
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW4\StrangeCalculator\StrangeCalculator.h(68,64): error C3861: 'precedence': identifier not found
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW4\StrangeCalculator\StrangeCalculator.h(76,14): error C3861: 'reverseString': identifier not found
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW4\StrangeCalculator\StrangeCalculator.h(103,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW4\StrangeCalculator\StrangeCalculator.h(107,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW4\StrangeCalculator\StrangeCalculator.h(144,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW4\StrangeCalculator\StrangeCalculator.h(147,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW4\StrangeCalculator\StrangeCalculator.h(172,2): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW4\StrangeCalculator\StrangeCalculator.h(182,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW4\StrangeCalculator\main.cpp(4,12): error C2601: 'main': local function definitions are illegal
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW4\StrangeCalculator\StrangeCalculator.h(195): message : this line contains a '{' which has not yet been matched
+C:\Users\deniz\Desktop\Bilkent\CS 201-202\CS201\Homework\HW4\StrangeCalculator\StrangeCalculator.h(195): fatal error C1075: '{': no matching token found
+  StrangeCalculator.cpp
+  Generating Code...
